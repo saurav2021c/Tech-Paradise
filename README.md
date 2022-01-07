@@ -9,6 +9,24 @@ Proposed Solution:
 
 What if..? all the task perform by Clubs and Community comes to a single platform so they can manage data more easily and conveniently so any member can participate in any program. The Aim of our project is to make such app that connects all professional bodies at one place to conduct all their task and this app will ensure that no other thing required to take from outside for clubs. This app will be able to connect various students participation in competition  in various clubs and community at a single place which is known as Tech Paradise. As of Now we have only created some parts of it such as Signup Page of Clubs and Their Info pages you can check below. And This is our First Project in Android Application so we will make major updates in future accordingly. 
 
+
+
+Functionality: -
+
+•	In this era of rush hours, we always forget important things to do aur to attend something which is especially important to us.
+•	So, our app I made to get u notified about it.
+•	Like in WhatsApp there are many groups. While some groups are especially important for us but in those junk of trash messages, we are too able to see our most important messages.
+•	So here we are developing an app to keep all these things sorted out.
+•	Like for Everything you will get different screens in very convenient way.
+
+Concept Used: -
+
+•	Login page - in scroll view constrain layout is used
+•	Signup page - We use constrain layout in which scroll view is used. In scroll view lineal layout is used. for maintaining title in horizontal we use relative layout and other info in linear layout.
+•	Main page: - In main page using constrain layout attached scroll view and put all thing in it by using linear layout.
+•	Informative page: in constrain we used scroll view and stored the information
+•	Firebase: - For signup, and login we used firebase. Custom firebase of Kotlin in used as assistant.
+
 Application Link & Future Scope :
 
 Our app apk file have been given in repository above. There is a lot bugs we have fixed and if it occurs by checking from your side please tell us.
