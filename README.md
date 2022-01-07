@@ -9,6 +9,7 @@ Proposed Solution:
 
 What if..? all the task perform by Clubs and Community comes to a single platform so they can manage data more easily and conveniently so any member can participate in any program. The Aim of our project is to make such app that connects all professional bodies at one place to conduct all their task and this app will ensure that no other thing required to take from outside for clubs. This app will be able to connect various students participation in competition  in various clubs and community at a single place which is known as Tech Paradise. As of Now we have only created some parts of it such as Signup Page of Clubs and Their Info pages you can check below. And This is our First Project in Android Application so we will make major updates in future accordingly. 
 
+![2121](https://user-images.githubusercontent.com/97289683/148590293-ab95e15d-e2e6-410f-a216-3b4f5cb12065.png)
 
 
 Functionality: -
