@@ -15,18 +15,27 @@ What if..? all the task perform by Clubs and Community comes to a single platfor
 Functionality: -
 
 •	In this era of rush hours, we always forget important things to do aur to attend something which is especially important to us.
+
 •	So, our app I made to get u notified about it.
+
 •	Like in WhatsApp there are many groups. While some groups are especially important for us but in those junk of trash messages, we are too able to see our most important messages.
+
 •	So here we are developing an app to keep all these things sorted out.
+
 •	Like for Everything you will get different screens in very convenient way.
 
 Concept Used: -
 
 •	Login page - in scroll view constrain layout is used
+
 •	Signup page - We use constrain layout in which scroll view is used. In scroll view lineal layout is used. for maintaining title in horizontal we use relative layout and other info in linear layout.
+
 •	Main page: - In main page using constrain layout attached scroll view and put all thing in it by using linear layout.
+
 •	Informative page: in constrain we used scroll view and stored the information
+
 •	Firebase: - For signup, and login we used firebase. Custom firebase of Kotlin in used as assistant.
+
 
 Application Link & Future Scope :
 
