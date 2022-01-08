@@ -14,9 +14,9 @@ What if..? all the task perform by Clubs and Community comes to a single platfor
 
 Functionality: -
 
-•	In this era of rush hours, we always forget important things to do aur to attend something which is especially important to us.
+•	In this era of rush hours, we always forget important things to  attend something which is especially important to us.
 
-•	So, our app I made to get u notified about it.
+•	So, we made an app to get u notified about it.
 
 •	Like in WhatsApp there are many groups. While some groups are especially important for us but in those junk of trash messages, we are too able to see our most important messages.
 
