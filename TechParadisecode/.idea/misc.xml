@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TechParadise/app/src/main/res/drawable/background_2.xml" value="0.2703125" />
+        <entry key="..\:/TechParadise/app/src/main/res/drawable/black_bg.xml" value="0.2703125" />
+        <entry key="..\:/TechParadise/app/src/main/res/drawable/color_btn.xml" value="0.2703125" />
+        <entry key="..\:/TechParadise/app/src/main/res/drawable/msg_btnx_foreground.xml" value="0.2703125" />
+        <entry key="..\:/TechParadise/app/src/main/res/drawable/nsstext.xml" value="0.2703125" />
+        <entry key="..\:/TechParadise/app/src/main/res/drawable/red_bt.xml" value="0.2703125" />
+        <entry key="..\:/TechParadise/app/src/main/res/drawable/signupbg.xml" value="0.2703125" />
+        <entry key="..\:/TechParadise/app/src/main/res/drawable/signupbgcolor.xml" value="0.2703125" />
+        <entry key="..\:/TechParadise/app/src/main/res/drawable/splash_screen_background.xml" value="0.2703125" />
+        <entry key="..\:/TechParadise/app/src/main/res/drawable/transperent_color.xml" value="0.2703125" />
+        <entry key="..\:/TechParadise/app/src/main/res/layout/activity_ascsi.xml" value="0.25416666666666665" />
+        <entry key="..\:/TechParadise/app/src/main/res/layout/activity_asnss.xml" value="0.264" />
+        <entry key="..\:/TechParadise/app/src/main/res/layout/activity_asrctcet.xml" value="0.25416666666666665" />
+        <entry key="..\:/TechParadise/app/src/main/res/layout/activity_chat_room.xml" value="0.22088353413654618" />
+        <entry key="..\:/TechParadise/app/src/main/res/layout/activity_csi_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/TechParadise/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/TechParadise/app/src/main/res/layout/activity_nss_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/TechParadise/app/src/main/res/layout/activity_rc_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/TechParadise/app/src/main/res/layout/activity_signup.xml" value="0.264" />
+        <entry key="..\:/TechParadise/app/src/main/res/layout/activity_sscsi.xml" value="0.25416666666666665" />
+        <entry key="..\:/TechParadise/app/src/main/res/layout/activity_ssnss.xml" value="0.264" />
+        <entry key="..\:/TechParadise/app/src/main/res/layout/activity_ssrctcet.xml" value="0.25416666666666665" />
+        <entry key="..\:/TechParadise/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/TechParadise/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2703125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

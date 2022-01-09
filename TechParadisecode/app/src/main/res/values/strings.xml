@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">Tech Paradise</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password">Password</string>
+    <string name="e_mail">E-mail</string>
+    <string name="todo">TODO</string>
+    <string name="tcet_nss">TCET NSS</string>
+    <string name="name">Name</string>
+    <string name="branch">branch</string>
+    <string name="mobile_no">Mobile no.</string>
+    <string name="division">Division</string>
+    <string name="roll_no">Roll no.</string>
+    <string name="year">Year</string>
+    <string name="token">Token</string>
+    <string name="submit">Submit</string>
+    <string name="NSSIMG">TODO</string>
+    <string name="nsstext">NSS is one of the aided extra-curricular activities conducted by the University of Mumbai and the Department of Youth Affairs and Sports, Government of India. Its motto is NOT ME BUT YOU. Through NSS, volunteers enhance their personality. NSS Unit TCET started in October 2005 with 42 members and has grown to a strength of 150 members. Till date more than 925 students have enrolled as NSS volunteers.
+\n\n
+National Service Scheme ( NSS) is a scheme specially made for social cause. The motto of NSS "NOT ME BUT YOU" , reflects the essence of democratic living and upholds the need for self-less service. The philosophy of the NSS is well emphazied in this motto, which underlines the belief that the welfare of an individual is ultimately dependent on the welfare of the society on the whole. Therefore, the NSS volunteers shall strive for the well-being of the society.
+\n\n
+<b>->The objectives of NSS are :</b>
+\n\n
+Understand the community in which they work
+\n\n
+Understand themselves in relation to their community
+\n\n
+Identify the needs and problems of the community and involve them in problem-solving
+\n\n
+Develop among themselves a sense of social and civic responsibility
+\n\n
+Utilise their knowledge in finding practical solutions to individual and community problems
+\n\n
+Develop competence required for group-living and sharing of responsibilities
+\n\n
+Gain skills in mobilising community participation
+\n\n
+Acquire leadership qualities and democratic attitude
+\n\n
+Develop capacity to meet emergencies and natural disasters and
+\n\n
+Practise national integration and social harmony.
+\n\n
+NSS undertakes various activities like tree plantation, blood donation camps, disaster management, national integration camps, immunization, adventure programs etc.
+
+<b>->NSS Outcome</b>
+\n\n
+Improve the quality of educated manpower by fostering social responsibility
+\n\n
+Raising society to a higher material and moral level by preparing students for final dedication in the service of nation
+\n\n
+Introduce urban students to rural life by living in contact with the community in whose midst their institution is located
+\n\n
+Making campus relevant to the needs of the community
+\n\n
+Develop constructive linkage between the campus and the community by supplementing technical education with social and economic reconstruction of the country
+\n\n
+Involvement in the tasks of national development
+\n\n
+Better understanding and appreciation of the problems of the society
+\n\n
+Encourage Community participation</string>
+    <string name="nss_btn">NSS</string>
+    <string name="csi_btn">CSI</string>
+    <string name="rc_btn">RC</string>
+    <string name="csi_text"><b>CSI-TCET</b> is the student branch of the Computer Society of India (CSI) at Thakur College of Engineering and Technology (TCET), Mumbai. Today, CSI has members from all over the nation including famous industry leaders, brilliant scientists, and dedicated academicians.
+\n\n
+<b>The mission of CSI is</b>
+\n\n
+ to facilitate research, knowledge sharing,
+\n\n
+learning and career enhancement,
+\n\n
+ while simultaneously inspiring and nurturing new talent and innovations.
+\n\n
+CSI-TCET aims to provide the students of TCET, across all four departments, the best opportunities to acquire knowledge and gain experience in varied fields and thus help them become better professionals.
+\n\n
+
+There are more than <b>170 registered members</b> and the chapter is still growing day by day. Activities are being continuously planned and conducted.
+\n\n
+
+CSI-TCET has gone on to become one of the most active students organizations at TCET.
+\n\n</string>
+    <string name="rc_text">Dealing with the challenges of today requires problem-solvers who bring different perspectives and are willing to take risks. Rotaract Club of TCET emerged out of a pursuit to inspire and support the community, and a desire for actions to speak louder than words.
+\n\n
+Established in 2017, we’re an organization driven by progressive ideas, bold actions, and a strong foundation of support.
+\n\n
+<b>The main objectives of Rotaract is to facilitate the holistic development of the members along with serving the needs of the society.</b>
+\n\n
+It focuses on projects and initiatives under avenues like community service, international service professional service etc.
+\n\n
+
+It is a service, leadership, professional and community service organization, which aims at carrying out initiatives and projects under these aspects as well as avenues like Sports, Editorial, Digital Communications and International Service.
+\n\n
+Rotaract clubs bring together people to exchange ideas with leaders in the community, develop leadership and professional skills, and have fun through service.\n\n
+<b>It focuses on the development of young adults as leaders in their communities and workplaces</b>
+\n\n
+
+1.To develop professional and leadership skills;
+\n\n
+2.To emphasize respect for the rights of others, and to promote ethical standards and the dignity of all useful occupation
+\n\n
+3.To provide opportunities for young people to address the needs and concerns of the community and our world
+\n\n
+4.To provide opportunities for working in cooperation with Rotary clubs.
+\n\n
+5.Rotaract clubs aims at bringing individuals together at a stage which provides a platform which facilitates the sharing of ventures.
+\n\n
+6.Rotaract acts as a catalyst between the members and the community working towards creating responsible youth for the future of the nation.
+\n\n</string>
+</resources>

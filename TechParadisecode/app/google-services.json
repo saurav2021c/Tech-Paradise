@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "670037245785",
+    "project_id": "tech-paradise-group-chat",
+    "storage_bucket": "tech-paradise-group-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670037245785:android:58974536a06d1525295648",
+        "android_client_info": {
+          "package_name": "com.example.techparadise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670037245785-7pe5slk1u9gejn20s973ih0r8gq5sd24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAABf6jWpPLH6R_O57GuPyiiRPTTN71IHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670037245785-7pe5slk1u9gejn20s973ih0r8gq5sd24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
